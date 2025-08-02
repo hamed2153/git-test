@@ -5,3 +5,6 @@ const isLogin = (user) => {
 const register = (user) => {
   return true;
 };
+const getMe = (user) => {
+  return 'user';
+};

@@ -13,8 +13,3 @@ const addCourse = (course) => {
   return true;
 };
 
-const test = () => false;
-
-const test2 = () => true;
-
-const setTicket = () => true;

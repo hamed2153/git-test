@@ -7,12 +7,3 @@ h1 {
   font-size: 12px;
 }
 
-form {
-  display: inline-block;
-}
-
-.form-main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}

@@ -2,8 +2,13 @@ body {
   display: inline;
 }
 
-
 h2 {
+  color: #cecece;
+  background-color: #333;
+  text-align: center;
+}
+
+h3 {
   color: #cecece;
   background-color: #333;
   text-align: center;
